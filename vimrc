@@ -19,12 +19,10 @@ set tabstop=4
 set softtabstop=4
 set shiftwidth=4
 
-
 "--------------- Toggle PASTE MODE -----------------"
 nnoremap <Leader>pm :set invpaste paste?<CR>
 set pastetoggle=<Leader>pm
 set showmode
-
 
 "--------------- SEARCH -----------------"
 set hlsearch
@@ -41,8 +39,6 @@ nmap <c-J> <c-W><c-L>
 
 nmap <c-R> :CtrlPBufTag<cr>
 
-
-
 "--------------- MAPPINGS ---------------"
 nmap <Leader>ev :tabedit $MYVIMRC<cr>
 nmap <Leader>ep :tabedit ~/.vim/plugins.vim<cr>
@@ -51,7 +47,6 @@ nmap <c-R> :CtrlPBufTag<cr>
 
 "Add simple highlight removal
 nmap <Leader><space> :nohlsearch<cr>
-
 
 "--------------AUTO-COMMANDS-------------"
 
