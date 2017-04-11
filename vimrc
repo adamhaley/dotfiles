@@ -5,8 +5,8 @@ hi Tab gui=underline guifg=blue ctermbg=blue
 
 so ~/.vim/plugins.vim
 
-"colorscheme atom-dark-256
-colorscheme railscasts
+colorscheme atom-dark-256
+"colorscheme railscasts
 "set background=dark
 
 "let g:solarized_termcolors=256
