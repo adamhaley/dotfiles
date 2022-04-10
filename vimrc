@@ -80,6 +80,8 @@ autocmd FileType php noremap <Leader>e :call PhpExpandClass()<CR>
 autocmd FileType php inoremap <Leader>s <Esc>:call PhpSortUse()<CR>
 autocmd FileType php noremap <Leader>s :call PhpSortUse()<CR>
 
+let g:snipMate = { 'snippet_version' : 1 }
+
 let g:php_namespace_sort_after_insert = 1
 
 
