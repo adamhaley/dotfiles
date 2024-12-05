@@ -21,6 +21,8 @@ Plugin 'stephpy/vim-php-cs-fixer'
 Plugin 'tarekbecker/vim-yaml-formatter'
 Plugin 'rking/ag.vim'
 Plugin 'skwp/greplace.vim'
+Plugin 'jreybert/vimagit'
+
 " End of php-cs-fixer version 2 config params
 
 call vundle#end()            " required
