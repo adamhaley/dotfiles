@@ -22,6 +22,8 @@ Plugin 'tarekbecker/vim-yaml-formatter'
 Plugin 'rking/ag.vim'
 Plugin 'skwp/greplace.vim'
 Plugin 'jreybert/vimagit'
+Plugin 'cocopon/iceberg.vim'
+
 
 " End of php-cs-fixer version 2 config params
 
