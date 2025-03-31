@@ -23,7 +23,7 @@ Plugin 'rking/ag.vim'
 Plugin 'skwp/greplace.vim'
 Plugin 'jreybert/vimagit'
 Plugin 'cocopon/iceberg.vim'
-
+Plugin 'altercation/vim-colors-solarized'
 
 " End of php-cs-fixer version 2 config params
 

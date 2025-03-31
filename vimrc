@@ -5,7 +5,8 @@ hi Tab gui=underline guifg=blue ctermbg=blue
 
 so ~/.vim/plugins.vim
 
-colorscheme iceberg
+colorscheme atom-dark-256
+"colorscheme iceberg
 "colorscheme railscasts
 set background=dark
 
